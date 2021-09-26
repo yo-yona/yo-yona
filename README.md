@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Welcome! :3
+# Welcome!
 ### My name is Svetlana Ionova.
 - 👩‍🎓 GRIAT student
 - 🐅 BARS .NET course student (qwerty team)
