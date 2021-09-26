@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Welcome! :3
+### My name is Svetlana Ionova.
+- 👩‍🎓 GRIAT student
+- 🐅 BARS course student
+- ✈️ KNRTU-KAI graduate
