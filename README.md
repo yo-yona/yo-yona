@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 # Welcome!
 ### My name is Svetlana Ionova.
 - 👩‍🎓 GRIAT student (RCSE)
-- 🐅 qwerty team
 - ✈️ KNRTU-KAI graduate
