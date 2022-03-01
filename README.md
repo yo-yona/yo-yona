@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 👩‍🎓 GRIAT student (RCSE)
 - ✈️ KNRTU-KAI graduate
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yo-yona&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yo-yona&theme=dark)  
