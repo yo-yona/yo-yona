@@ -16,5 +16,6 @@ Here are some ideas to get you started:
 ### My name is Svetlana Ionova.
 - 👩‍🎓 GRIAT student (RCSE)
 - ✈️ KNRTU-KAI graduate
+- ✏️ English IELTS 8.0
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yo-yona&theme=dark)  
